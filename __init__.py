@@ -35,5 +35,6 @@ def main():
     iphone.addContact("Tere",3002574751)
     iphone.info()
     iphone.findContact("Papa")
+    iphone.findContact("Tere")
 
 main()
